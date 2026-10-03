@@ -6,7 +6,7 @@ An exploratory Python project testing whether a PCA-based covariance estimate im
 
 
 
-\## Current experiment
+\##Current experiment
 
 
 
@@ -24,7 +24,7 @@ An exploratory Python project testing whether a PCA-based covariance estimate im
 
 
 
-\## Preliminary result
+\##Preliminary result
 
 
 
@@ -36,7 +36,7 @@ Equal weight returned 6.364% after the same cost assumption, but held substantia
 
 
 
-\## Status and next steps
+\##Status and next steps
 
 
 
